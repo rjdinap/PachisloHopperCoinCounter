@@ -11,7 +11,7 @@ I needed to count several thousand quarters in stacks of 40 for rolling in coin 
 Enter a hopper from a Japanese Pachislo machine,  an Arduino, and about 2 hours time, and I have a one time use coin counter.
 
 
-Build has very minimal components and should only take you about 15 minutes to wire up if you are using the same hopper I have (Juki JSH777). Otherwise you'll need to prod the connections on the whichever brand hopper you have.
+Build has very minimal components and should only take you about 15 minutes to wire up if you are using the same hopper I have (Juki JSH777). Otherwise you'll need to prod the connections on whichever brand hopper you have.
 
 
 Press the switch, and the hopper motor will activate. It will stop when it has reached the proper number of coins, or after 3 seconds of not detecting a coin ejected (hopper empty?)
